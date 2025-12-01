@@ -132,12 +132,7 @@ Oslo
 Dubai
 
 📽️ Video Demo
-
-(You will add your video link here)
-
-Example:
-
-👉 Demo Video: https://youtu.be/XXXXXXXXXX
+https://youtu.be/LWHf2KWv1-s
 
 The video contains:
 
